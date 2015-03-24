@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+	background: #d7e4ff;
+}
+
+.okvir1 {
+	max-width: 75%;
+	margin: auto;
+}
+
+.okvir2 {
+	text-align: left;
+}
+
+table {
+	float: left;
+}
+
+table, table caption, table tr, table td, table th{
+	border: 1px solid black;
+	padding: 5px;
+	empty-cells: hide;
+}
+
+th {
+	background: #d8d8d8;
+}
+
+.slika1 {
+	float: right;
+	font-size: 48px;
+	text-align: center;
+	margin-right: 50px;
+}
+
+.flouting {
+	float: left;
+	list-style: armenian;
+	border-collapse: initial;
+	border-spacing: 0px;
+	caption-side: initial;
+	table-layout: auto ;
+}
